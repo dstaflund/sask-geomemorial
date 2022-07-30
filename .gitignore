@@ -86,3 +86,10 @@ lint/tmp/
 
 # IntelliJ files
 .idea/
+
+# GCP Service Account Keys
+/firestore/keys/sask-geomemorial-357916-d770bd85c645.json
+
+# NodeJS modules
+**/node_modules/
+
